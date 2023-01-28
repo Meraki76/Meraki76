@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Meraki76
-- 👀 I’m interested in making stuff.
-- 🌱 I’m currently learning Java and Godot.
+👋 Hi, I’m Dylan! But online I also go by Meraki.
+- 📖 Currently studying Computer Science at Queen Mary University of London.
+- 👀 I’m interested in software engineering.
+- 🖥️ I love programming in Java, Python, HTML, CSS, PHP, SQL, JavaScript.
+- 🎮 My interests also reside in Game Development, with knowledge and practice in GameMaker Studio (GML) and Godot (GDScript).
+- 🌱 I’m currently learning React.js and the Spotify API to build a new app, SpotiChord!.
 
 <!---
 Meraki76/Meraki76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
