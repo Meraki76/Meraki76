@@ -1,4 +1,4 @@
-👋 Hi, I’m Dylan! Online, I go by Meraki.
+👋 Hi, I’m Dylan!
 
 - 🎓 Studying Computer Science at Queen Mary University of London, where I've achieved a First Class with an 86.8% overall.
 - 💻 Passionate about software engineering, particularly in Java, Python, JavaScript, and more.
